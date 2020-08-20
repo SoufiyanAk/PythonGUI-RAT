@@ -1,25 +1,25 @@
 # PythonGUI-RAT
-Python graphical user interface Remote access tool for windows and linux (Single client) (Incomplete Project)
+Python graphical user interface Remote access tool for windows and linux (Single client) (Incomplete Project)<br/><br/>
 
-Note: I will not take any responsibility of someone else's ill act with my program. But I do believe that a real learner will learn a lot from this.
+Note: I will not take any responsibility of someone else's ill act with my program. But I do believe that a real learner will learn a lot from this.<br/>
 
-PythonGUI-RAT is a fast and light-weight remote administration tool coded in Python
+PythonGUI-RAT is a fast and light-weight remote administration tool coded in Python<br/>
 
 # Features
 
-Remote Shell
-Download manager
-Clean client
+Remote Shell<br/>
+Download manager<br/>
+Clean client<br/>
 
 # The features I intended to program
 
-Task Manager
-File Manager
-Password Recovery
-Keylogger
-System Information
-Registry editor
-RDP
+Task Manager<br/>
+File Manager<br/>
+Password Recovery<br/>
+Keylogger<br/>
+System Information<br/>
+Registry editor<br/>
+RDP<br/>
 
 # Supported runtimes and operating systems
 
