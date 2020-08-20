@@ -11,6 +11,26 @@ Remote Shell<br/>
 Download manager<br/>
 Clean client<br/>
 
+# Tools Overview
+In windows<br />
+<img src="https://1.bp.blogspot.com/-o5dhyiOh1SI/Xz7ypHTYcFI/AAAAAAAAAbI/al82rnmEOJkda5LiLb4WId-4DeN4JWQDQCLcBGAsYHQ/s638/1.JPG"></img>
+<img src="https://1.bp.blogspot.com/-1Bh4Vl5WLdY/Xz7ypKJQMqI/AAAAAAAAAbE/RBjucGVAyj0w4M6KCgYGt8P6N1znufk5wCLcBGAsYHQ/s630/2.JPG"></img>
+<img src="https://1.bp.blogspot.com/-SyuNjsdfSPg/Xz7ypNX0zqI/AAAAAAAAAbA/nkc6HCS78-g0CLe02yghk4CEvTYav6nlwCLcBGAsYHQ/s635/3.JPG"></img>
+<br />In linux<br />
+<img src="https://1.bp.blogspot.com/-kwIQOM7dFeU/Xz7ypnwep5I/AAAAAAAAAbM/rk4w0p9Hmnw_AdVWoS9KN_wR8sFls0HlACLcBGAsYHQ/s641/4.JPG"></img>
+# Requirements
+Python3<br />
+PyQT5
+
+# How to use it
+Config the server with your IP Address<br />
+<b>self.host = "192.168.145.134"</b><br />
+the same thing for the client<br />
+<b>self.host = "192.168.145.134"</b><br />
+
+Run the server 
+Python3 server.py
+Run the client to test your connection
 # The features I intended to program
 
 Task Manager<br/>
@@ -36,9 +56,13 @@ Supported operating systems (32 and 64-bit)
 
 Supported operating systems linux (32 and 64-bit)
 
+# Documentation
+Youtube Videos (Arabic)
+https://www.youtube.com/watch?v=NcxzaSwR1sk&list=PLasGwuDtDJHK7Nu4YhsD_Xp52rChz9Nmk
+
 # License
 
-PythonGUI-RAT is distributed under the <a href="https://fr.wikipedia.org/wiki/Licence_MIT">MIT License</a>.
+PythonGUI-RAT (EBF RAT) is distributed under the <a href="https://fr.wikipedia.org/wiki/Licence_MIT">MIT License</a>.
 
 # Thank you!
 
