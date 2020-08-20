@@ -28,9 +28,9 @@ Config the server with your IP Address<br />
 the same thing for the client<br />
 <b>self.host = "192.168.145.134"</b><br />
 
-Run the server 
-Python3 server.py
-Run the client to test your connection
+Run the server <br />
+Python3 server.py<br />
+Run the client to test your connection<br />
 # The features I intended to program
 
 Task Manager<br/>
@@ -57,7 +57,7 @@ Supported operating systems (32 and 64-bit)
 Supported operating systems linux (32 and 64-bit)
 
 # Documentation
-Youtube Videos (Arabic)
+Youtube Videos (Arabic)<br />
 https://www.youtube.com/watch?v=NcxzaSwR1sk&list=PLasGwuDtDJHK7Nu4YhsD_Xp52rChz9Nmk
 
 # License
