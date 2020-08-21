@@ -1,5 +1,5 @@
 # PythonGUI-RAT
-Python graphical user interface Remote access tool for windows and linux (Single client) (Incomplete Project)<br/><br/>
+Python graphical user interface Remote access tool for windows and linux (Single client) (<b>Incomplete Project</b>)<br/><br/>
 
 Note: I will not take any responsibility of someone else's ill act with my program. But I do believe that a real learner will learn a lot from this.<br/>
 
