@@ -66,6 +66,6 @@ PythonGUI-RAT (EBF RAT) is distributed under the <a href="https://fr.wikipedia.o
 
 # Thank you!
 
-I really appreciate all kinds of feedback and contributions. I hope a programmer can complete my work. Not so difficult as you think. you can do it!
+I really appreciate all kinds of feedback and contributions. Pleaes feel free to contribute in this project to learn or improve this.
 
 
